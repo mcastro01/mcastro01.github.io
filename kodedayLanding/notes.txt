@@ -1,0 +1,20 @@
+http://www.themezaa.com/html/leadgen/demo/agency/index.html
+
+    background: linear-gradient(rgba(15,15,15,0.80), rgba(15,15,15,0.80)), url(images/bg-image/restaurant-slider-03.jpg);
+
+fonts-awesome
+
+	ti-desktop
+	ti-ruler-pencil
+	ti-world
+	ti-map-alt
+	ti-facebook
+	ti-twitter
+	ti-linkedin
+	ti-pinterest
+
+https://fontawesome.com/start
+
+resources:
+
+https://drive.google.com/drive/folders/1sXEbVzVuZApbPg8YAMijhXAo--12r7hg?usp=sharing
